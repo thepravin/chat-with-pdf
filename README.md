@@ -159,4 +159,10 @@ Contributions are welcome! Please open an issue or submit a PR. Let’s build a 
 📧 [LinkedIn](https://www.linkedin.com/in/thepravin)
 💼 Software Engineer | AI Builder | Full-Stack Developer
 
+---
+
+<div align="center">
+<h1>🧑‍💻 Happy coding!</h1>
+</div>
+
 
