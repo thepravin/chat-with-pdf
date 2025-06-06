@@ -17,12 +17,12 @@ filetype==1.2.0
 frozenlist==1.6.2
 gitdb==4.0.12
 gitpython==3.1.44
-google-ai-generativelanguage>=0.6.18 # Changed from ==0.6.15 to resolve conflict
+google-ai-generativelanguage>=0.6.18
 google-api-core==2.25.0
 google-api-python-client==2.171.0
 google-auth==2.40.3
 google-auth-httplib2==0.2.0
-google-generativeai==0.8.5
+google-generativeai>=1.0.0
 googleapis-common-protos==1.70.0
 greenlet==3.2.3
 grpcio==1.72.1
@@ -75,7 +75,6 @@ pypdf==5.6.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.2
-# Removed pywin32==310 as it's Windows-specific
 pyyaml==6.0.2
 qdrant-client==1.14.2
 referencing==0.36.2
